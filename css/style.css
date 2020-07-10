@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Open+Sans:wght@300&display=swap');
+@import url('components/container-custom.css');
+@import url('components/btn-custom.css');
+@import url('components/banner.css');
+@import url('components/navbar.css');
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	background-color: #38406aff !important;
+	line-height: 50px;
+}
+
+h1{
+	font-family: 'Lora', serif;
+	font-weight:600;
+	text-align: center;
+	line-height: 25px;
+}
+
+h2{
+	font-family: 'Lora', serif;
+	font-weight:600;
+	text-align: center;
+
+}
+
+h3 {
+	font-family: 'Lora', serif;
+	font-weight:400;
+    text-align: center;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+
+}
+
+.btn-regular:hover {
+	text-decoration: none;
+	color:white;
+	background:#388659ff;
+}
+
+.body-text{
+	color: #dcedffff;
+	margin:10px 60px;
+	padding: 23px 15px
+	
+}
+
+#body-custom {
+	line-height: 34px;
+	margin: 
+}
+
+.carousel-wrapper {
+	margin: 0 9rem;
+}
+
+.card-text {
+	text-align: left;
+}
+	
+#list-inline {
+	list-style: none;
+	padding: 5px
+}
+
+#list-inline li{
+	display: inline;
+	text-align: center;
+}
+
+#list-inline i{
+	font-size: 70px;
+	color: black;
+	margin: 3px
+}
+
+#list-inline:hover i{
+	color: grey; 
+}
+
+.social {
+	display: flex;
+	justify-content: center;
+}

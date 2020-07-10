@@ -1,0 +1,23 @@
+.banner {
+	background-image: url('../../images/Cape-Cod.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 90px;
+	text-align: center;
+	margin-bottom: 50px
+	
+}
+
+.banner p{
+	font-size: 20px;
+	margin-bottom: 10px;
+	margin-top:10px;
+	color: white;
+	line-height: 80px;
+
+}
+
+.banner h1 {
+	color: white;
+	font-size: 60px
+}
